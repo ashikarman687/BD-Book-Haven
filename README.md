@@ -1,0 +1,2 @@
+# BD-Book-Haven
+A brief summary about “BD Book Haven”. An online bookstore software projects that acts as a central database containing various books in stock along with their title, author, book-image, and cost. This project is a user-friendly website that acts as a central bookstore. This web project is developed using object oriented php as the front end and MySQL database as a back-end. We use HTML5, CSS, Bootstrap and JavaScript for website design. 
